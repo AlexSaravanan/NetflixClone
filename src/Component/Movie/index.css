@@ -1,0 +1,6 @@
+.example:hover{
+    transform: scale(1.08);
+}
+.example{
+    transition:transform 500ms ;
+}
